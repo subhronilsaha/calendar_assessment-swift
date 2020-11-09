@@ -1,0 +1,6 @@
+framework module Pods_Ferofly_Assignment {
+  umbrella header "Pods-Ferofly-Assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
