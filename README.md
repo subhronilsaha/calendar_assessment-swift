@@ -1,3 +1,3 @@
 # Calendar Assessment (Swift)
 
-<img src="demo/calendar-demo.gif" width=300 />
+<img src="demo/calendar-demo.gif" width=200 />
